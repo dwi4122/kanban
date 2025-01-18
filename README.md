@@ -1,4 +1,4 @@
-#Kanban 
+# Kanban 
 Online kanban board, made using Vite, React, Typescript and leveraging DND-kit. Columns can be added, deleted and moved around. Tasks can be added to the board, their contents edited and can be moved within the column or dropped to a different one. Title of Column and content of Tasks can be edited. No limit on Columns or Tasks.
 
 
